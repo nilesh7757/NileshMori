@@ -19,7 +19,7 @@ const About = () => {
         >
           <Image
             className="shadow-lg shadow-slate-500 hover:shadow-xl hover:shadow-slate-600 rounded-md"
-            src="/Nilesh.jpg"
+            src="./Nilesh.jpg"
             width={350}
             height={350}
             alt="Nilesh Mori"
